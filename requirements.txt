@@ -1,0 +1,4 @@
+# 必要なライブラリ（GUI の Tkinter は Python に付属。Linux では python3-tk を別途インストール）
+numpy
+scipy
+matplotlib>=3.4
